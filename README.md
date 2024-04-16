@@ -1,4 +1,4 @@
-#Simple todo list app (without CRUD) in React
+# Simple todo list app (without CRUD) in React
 
 ## Hooks, Routers and Redux implementation
 
