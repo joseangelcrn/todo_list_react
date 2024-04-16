@@ -4,6 +4,6 @@
 
 ![App Image](https://i.ibb.co/pvtd2pJ/todolist.png)
 
-## Hooks, Routers and Redux implementation
+## Hooks, Routers, Redux and MUI implementation
 
 Just an app to practise react concepts
