@@ -8,5 +8,17 @@
 
 Just an app to practise react concepts
 
+---
+
+## How it works ?
+
+```
+cd todo_list_react
+npm run start
+```
+
+---
 
 Any pull request is welcome! 😄
+
+---
