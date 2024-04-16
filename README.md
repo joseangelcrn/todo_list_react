@@ -7,3 +7,6 @@
 ## Hooks, Routers, Redux and MUI implementation
 
 Just an app to practise react concepts
+
+
+Any pull request is welcome! 😄
