@@ -33,7 +33,7 @@ const Menu = () => {
   };
 
   const checkRoute = () =>{
-    if (location.pathname == '/') {
+    if (location.pathname === '/') {
       console.log('redirecting to default route...');
       navigate(defaultRoute);
     }
@@ -54,17 +54,17 @@ const Menu = () => {
       <BottomNavigationAction
         component={Link}
         to="/list"
-        label="Lista de ToDos"
+        label="ToDo List"
         icon={<TocIcon />}
       />
       <BottomNavigationAction
-        label="Tareas sin terminar"
+        label="Uncompleted Tasks"
         icon={<PlaylistRemoveIcon />}
         component={Link}
         to="/list/uncompleted"
       />
       <BottomNavigationAction
-        label="Tareas Terminadas"
+        label="Completed Tasks"
         icon={<ChecklistRtlIcon />}
         component={Link}
         to="/list/completed"
