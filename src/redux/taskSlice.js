@@ -45,10 +45,6 @@ const taskSlice = createSlice({
 
       });
     },
-
-    getCompletedTasks :(state)=>{
-      return 'hola'
-    }
   },
 });
 
