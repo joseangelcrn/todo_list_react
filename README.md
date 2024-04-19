@@ -14,6 +14,7 @@ Just an app to practise react concepts
 
 ```
 cd todo_list_react
+npm install
 npm run start
 ```
 
